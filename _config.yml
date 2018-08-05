@@ -4,6 +4,7 @@ baseurl: "/louie"
 url: "http://lily.work"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
+theme: louie
 
 # bio
 header: Louie
