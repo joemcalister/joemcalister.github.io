@@ -11,8 +11,8 @@ $font__line-height: 1.5;
 // colors
 $color__black:      #000000;
 $color__gray:       #eeeeee;
-$color__beige:      #f8f8f1;
-$color__yellow:     #fefeca;
+$color__beige:      #cccccc;
+$color__yellow:     #2c419b;
 
 @mixin media-query($device) {
   @media screen and (min-width: $device) {
@@ -27,10 +27,12 @@ $color__yellow:     #fefeca;
 
 ::selection {
   background: $color__yellow;
+  color: white;
 }
 
 ::-moz-selection {
   background: $color__yellow;
+  color: white;
 }
 
 hr {
@@ -91,4 +93,9 @@ body {
   .container {
     margin: 0 120px;
   }
+}
+
+// eye
+#logo {
+  margin: 0px 0px 20px 0px;
 }

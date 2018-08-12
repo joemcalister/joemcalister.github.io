@@ -1,21 +1,21 @@
 # site
-title: Louie
-baseurl: "/louie"
-url: "http://lily.work"
+title: Thoughts | Joe McAlister
+baseurl: "/"
+url: "http://thoughts.joe.ac"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
 
 # bio
-header: Louie
+header: Joe's Thoughts and Research
 desc: >
-  A Jekyll theme (that looks awesome). Louie is free, lightweight,
-  and customizable as a blog, archive, or portfolio.
+  Thoughts and rambles as I develop artwork and explore new approaches. 
+  Occasionally technical, sometimes arty usually overly detailed.
 
 # posts
-date_format: "%Y"
-post_title: Story
-post_date: Year
-post_cat: Genre
+date_format: "%F"
+post_title: Post
+post_date: Date
+post_cat: Type
 
 # post detail
 prev-next: true
