@@ -4,7 +4,6 @@ baseurl: "/"
 url: "http://thoughts.joe.ac"
 favicon: "/assets/sample/ico.png"
 g_analytics: UA-12345678-1
-theme: louie
 
 # bio
 header: Joe's Thoughts and Research
