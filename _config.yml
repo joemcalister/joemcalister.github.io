@@ -23,6 +23,7 @@ prev-next: true
 # build settings
 markdown: kramdown
 # theme: louie
+remote_theme: lllychen/louie
 exclude:
   - Gemfile
   - Gemfile.lock
