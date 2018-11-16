@@ -3,17 +3,18 @@ layout: post
 title:  The kitchen fridge
 author: Joe McAlister
 category: Blog & Despair
-img: https://media.giphy.com/media/4T5t4kffDNRj4j1fGJ/giphy-downsized-large.gif
+img: /assets/images/kitchen-fridge/hero.jpg
 ---
 
-That's great honey... What... is it? 
+<img src="/assets/images/kitchen-fridge/hero.jpg" width="100%" height="auto" />
+<i>That's great honey... What... is it?</i>
 
 It's been an exciting and frustrating few weeks in the world of arts, AI and Machine Learning. Deepfakes are finally mainstream and are scaring people across the globe.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HJcdVjkqiW8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <i>I can hear talented CG artists weeping</i>
 
-Will this be the end of plausible authenticity?? No. Look at Trump. Nevertheless, it's growing availability will change how we analyse media, it can no longer be taken as "trusted by default", but instead, the rhetoric and motivation behind a video should be considered as highly as you would consider the visual authenticity. It's not the end of the world though. We've seen fake viral videos for years now. 
+Will this be the end of plausible authenticity?? No. Look at Trump. Nevertheless, it's growing availability will change how we analyse media, it can no longer be taken as "trusted by default", but instead, the rhetoric and motivation behind a video should be considered as highly as you would consider the visual authenticity. It's not the end of the world though. We've seen believable fake viral videos for years now. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pecV8i8M2J0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <i>Probably my favourite fake viral video from 2012</i>
