@@ -40,6 +40,10 @@ hr {
   background-color: $color__black;
 }
 
+iframe {
+  max-width: 100% !important;
+}
+
 a {
   // display: block;
   // width: 100%;
