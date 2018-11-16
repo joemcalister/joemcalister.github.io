@@ -3,10 +3,10 @@ layout: post
 title:  The kitchen fridge
 author: Joe McAlister
 category: Blog & Despair
-img: /assets/images/kitchen-fridge/hero.jpg
+img: /assets/images/kitchen-fridge/hero2.jpg
 ---
 
-<img src="/assets/images/kitchen-fridge/hero.jpg" width="100%" height="auto" />
+<img src="/assets/images/kitchen-fridge/hero2.jpg" width="100%" height="auto" />
 <i>That's great honey... What... is it?</i>
 
 It's been an exciting and frustrating few weeks in the world of arts, AI and Machine Learning. Deepfakes are finally mainstream and are scaring people across the globe.
